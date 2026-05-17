@@ -1,46 +1,214 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "c11b",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "eb1e",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "44ce",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "bdeb",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "6e36",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "a1c6",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "fb38",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "ffb9",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "3f17",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "d23c",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "ed12",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "1c8e",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "9ffe",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "0949",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "e09e",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "5913",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "65ae",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "5c11",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "6a50",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "ed4b",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "63ed",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "63c9",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "87f1",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
+    },
+    {
+      "id": "a861",
+      "name": "",
+      "image": "",
+      "price": "",
+      "soldOut": false
     }
   ]
 }
