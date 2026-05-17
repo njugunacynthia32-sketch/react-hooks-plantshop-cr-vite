@@ -12,7 +12,6 @@ function NewPlantForm({ onAddPlant }) {
       name,
       image,
       price,
-      soldOut: false,
     };
 
     fetch("http://localhost:6001/plants", {
